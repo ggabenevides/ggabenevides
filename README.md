@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=800&color=C98FF7&width=435&lines=Hello%2C+world;I'm+Gabriela+Benevides)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=800&color=C98FF7&width=435&lines=Hello%2C+world;I'm+Gabriela+Benevides)](https://git.io/typing-svg)
 
 ### :purple_heart: About me
 - :mortar_board: Bachelor's degree in Computer Science [02/09]
